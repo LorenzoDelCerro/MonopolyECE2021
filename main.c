@@ -7,7 +7,7 @@ int main() {
 
     //On demande son choix à l'utilisateur
     printf("Quel exercice voulez-vous lancer ?\n");
-    //Pensez à afficher les choix disponibles ici
+    //Pensez à afficher les choix disponibles  et plus encore
 
     do{
         scanf("%d", &choixExercice);
